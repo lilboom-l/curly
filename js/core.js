@@ -1,4 +1,4 @@
-// curly! core: config, storage, settings, panic key, tab cloak, routing,
+// curly! core: config, storage, settings, panic key, tab cloak, routing, yk what it is
 // DOM helpers, icons and the game list. Plain ES module, no build step.
 
 
