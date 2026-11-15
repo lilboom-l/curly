@@ -8,7 +8,7 @@ A sleek and minimalist Web Proxy.
 > [!NOTE] 
 > Curly! is still in its early stages, so you might encounter a few occasional bugs. I am actively working on new features and improvements—stay tuned!
 
-## Supported Sites:
+## Supported Sites
 
 - [Google](https://google.com)
 - [Spotify](https://spotify.com)
@@ -18,12 +18,16 @@ A sleek and minimalist Web Proxy.
 - [GeForce NOW](https://play.geforcenow.com/)
 - [Now.gg](https://now.gg)
 
-## Features:
+## Features
 
 - Fast, Advanced & Powerful Web Proxy
 - Sleek & Clean UI
 - Over 600 games
 - And a lot more features coming soon...
+
+## Live Instance
+
+- [curly](https://lilboom-l.github.io/curly/)
 
 ## Usage:
 
