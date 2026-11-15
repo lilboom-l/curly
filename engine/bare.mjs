@@ -1,4 +1,4 @@
-// The user likely has overwritten all networking functions after importing bare-client
+// cury bare.mjs script
 // It is our responsibility to make sure components of Bare-Client are using native networking functions
 // These exports are provided to plugins by @rollup/plugin-inject
 const fetch = globalThis.fetch;
